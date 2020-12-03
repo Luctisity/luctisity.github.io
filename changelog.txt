@@ -1,0 +1,35 @@
+02.11.2020
+---
+-Added Quick Login! You need to press "Login", input your username and click the "Log in" button, it will reload the current page!
+By clicking on your profile it will also redirect you to your page
+
+04.10.2020
+---
+-Added NSFW Warning for projects and released a project solely made for Beta features of Luctisity
+-Added NSFW Project on the navigation menus, blurred and red name
+
+03.10.2020
+---
+-Made the white containers scrollable if too big
+-Turbowarp took place of Forkphorus now
+
+02.10.2020
+---
+-Rebranding! Welcome to Luctisity!
+
+
+30.09.2020
+---
+-Added the following page, the first to have it being IlyaMikheev (ID 5)
+
+
+29.09.2020
+---
+-Added the unsharing projects ability.
+
+
+28.09.2020
+---
+-Began changelog!
+-Added "See Scratch Code" button
+-Made all projects/users/studios blocks wider (750px - 810px)
