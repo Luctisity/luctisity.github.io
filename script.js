@@ -34,7 +34,7 @@ var header = `
 			<label style="padding-top:auto; padding-bottom:auto;" id="username" class="link"><b>demo_account</b></label>
 		</div></a>	
 	</nav>
-</header><br/><br/><br/><br/><br/><br/>
+</header><br/><br/><br/><br/><br/>
 `
 
 document.write(header)
