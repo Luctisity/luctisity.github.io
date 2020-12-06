@@ -6,7 +6,7 @@ var header = `
 </style>
 <header id="header">
 	<div id="logo">
-		<a href="index.html"><img src="img/icon.png" width="140px"></a>
+		<a href="index"><img src="img/icon.png" width="140px"></a>
 	</div>
 	<div id="search">
 		<input type="text" placeholder="Search" id="searchbar">
@@ -27,7 +27,7 @@ var header = `
 		<nav style="display:block;">
 			<a href="#"><img src="img/buttons/messages.png" width="40px"></a>
 			<a href="#"><img src="img/buttons/mystuff.png" width="40px"></a>
-			<a href="settings.html"><img src="img/buttons/settings.png" width="40px"></a>
+			<a href="settings"><img src="img/buttons/settings.png" width="40px"></a>
 		</nav>
 		<a href="#" class="link"><div id="profile" style="display:block;">
 			<img src="img/ava_default.png" width="40px" id="avatar">
