@@ -1,0 +1,144 @@
+body {
+	margin:0px;
+	padding:0px;
+	/*background-color:black;*/
+	font-family:Arial;
+	color:white;
+}
+
+header {
+	/*background-color:#6229ff;*/
+	padding:10px;
+	display: flex;
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+}
+
+a {
+	text-decoration:none;
+}
+
+#search {
+	margin-top:13px;
+	margin-left:10px;
+}
+
+#searchbar {
+	/*background-color:#491cc4;*/
+	width:150px;
+	height:35px;
+	border-radius:10%;
+}
+
+#navstandard {
+	margin-top:20px;
+	margin-left:15px;
+}
+
+#navstandard>a {
+	/*color:#ccccff;*/
+	text-decoration:none;
+	font-weight:bold;
+	padding:7px;
+	font-size:22px;
+}
+
+#navstandard>a:hover {
+	color:white;
+}
+
+#login {
+	margin-left:auto;
+	margin-top:13px;
+	font-weight:bold;
+	padding:7px;
+	font-size:22px;
+}
+
+#login>a:hover {
+	color:white;
+}
+
+#profilestuff {
+	margin-top:15px;
+	margin-left:auto;
+	position:relative;
+	right:180px;
+}
+
+#profile {
+	padding:10px;
+	text-decoration:none;
+	/*color:#ccccff;*/
+	margin-top:-53px;
+	position:relative;
+	left:240px;
+}
+
+#profile>label {
+	position:relative;
+	bottom:14px;
+}
+
+#profile:hover {
+	background-color: rgba(0, 0, 0, .3);
+	cursor:pointer;
+}
+
+main {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin:0px;
+}
+
+#container1 {
+	margin-left:auto;
+	margin-right:auto;
+	/*background-color:#6229ff;*/
+	padding:5px;
+	width:839px;
+}
+
+#container2 {
+	/*background-color:#bac4ff;*/
+	padding:5px;
+	font-weight:bold;
+}
+
+section {
+	display: inline-block;
+}
+
+#pname {
+	/*color:#00acf0;*/
+	font-size:15px;
+}
+
+#pauth {
+	color:gray;
+	font-weight:normal;
+	font-size:13px;
+}
+
+#uname {
+	font-size:13px;
+	/*color:#00acf0;*/
+}
+
+footer {
+	background-color:#131d5e;
+	padding:40px;
+	padding-left:auto;
+	padding-right:auto;
+	display:block;
+}
+
+a:hover {
+	color:white;
+}

@@ -1,0 +1,28 @@
+body {
+	background-color:#000000;
+	color:white;
+}
+
+header, #header {
+	background-color:#6229ff;
+}
+
+a {
+	color:#ccccff;
+}
+
+#searchbar {
+	background-color:#491cc4;
+}
+
+#container1 {
+	background-color:#6229ff;
+}
+
+#container2 {
+	background-color:#bac4ff;
+}
+
+#pname, #uname {
+	color:#00acf0;
+}

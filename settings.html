@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+	<head>
+		<title>Luctisity ALPHA</title>
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="themes/themedark.css">
+		<script src="script.js"></script>
+	</head>
+	<body>
+		<div>
+			<label>Header Background Color (Default - #6229ff)</label>
+			<input type="text" placeholder="HEX Code">
+			<button type="submit" onclick='css1(document.getElementsByTagName("input")[1].value)'>Change</button>
+		</div>
+		<div>
+			<label>Background Color (Default - #000000)</label>
+			<input type="text" placeholder="HEX Code">
+			<button type="submit" onclick='css2(document.getElementsByTagName("input")[2].value)'>Change</button>
+		</div>
+		<div>
+			<label>Link Color (Default - #ccccff)</label>
+			<input type="text" placeholder="HEX Code">
+			<button type="submit" onclick='css3(document.getElementsByTagName("input")[3].value)'>Change</button>
+		</div>
+		<div>
+			<label>Search Bar BG Color (Default - #491cc4)</label>
+			<input type="text" placeholder="HEX Code">
+			<button type="submit" onclick='css4(document.getElementsByTagName("input")[4].value)'>Change</button>
+		</div>
+		<div>
+			<label>Text Color 1 (Default - #ffffff)</label>
+			<input type="text" placeholder="HEX Code">
+			<button type="submit" onclick='css5(document.getElementsByTagName("input")[5].value)'>Change</button>
+		</div><br/>
+		<h1>CUSTOM THEMES</h1>
+		<button type="submit" onclick="themedefault()">Default</button>
+		<button type="submit" onclick="themesdark()">Solid Dark</button>
+		<button type="submit" onclick="themewaste()">Toxic Wasteland</button>
+	</body>
+</html>
