@@ -1,0 +1,28 @@
+body {
+	background-color:white;
+	color:#575e75;
+}
+
+header, #header {
+	background-color:#4d97ff;
+}
+
+a {
+	color:#00acf0;
+}
+
+#searchbar {
+	background-color:#4588e5;
+}
+
+#container1 {
+	background-color:#f2f2f2;
+}
+
+#container2 {
+	background-color:white;
+}
+
+footer {
+	background-color:#f2f2f2;
+}
