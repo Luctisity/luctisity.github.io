@@ -6,7 +6,7 @@ var header = `
 </style>
 <header id="header">
 	<div id="logo">
-		<a href="index"><img src="img/icon.png" width="140px"></a>
+		<a href="index.html"><img src="img/icon.png" width="140px"></a>
 	</div>
 	<div id="search">
 		<input type="text" placeholder="Search" id="searchbar">
@@ -20,21 +20,24 @@ var header = `
 		<a href="#" class="link">Wiki</a>
 		<a href="#" class="link">Map</a>
 	</nav>
-	<nav id="login">
-		<a href="#" class="link">Login</a>
+	<nav id="login" style="	display:none;">
+		<a href="#" class="link" style="padding-right:6px;">Register</a>
+		<a href="#" class="link"> Login</a>
 	</nav>
-	<nav id="profilestuff">
-		<nav style="display:block;">
+	<nav id="profilestuff" style="display:block;">
+		<nav>
 			<a href="#"><img src="img/buttons/messages.png" width="40px"></a>
 			<a href="#"><img src="img/buttons/mystuff.png" width="40px"></a>
-			<a href="settings"><img src="img/buttons/settings.png" width="40px"></a>
+			<a href="settings.html"><img src="img/buttons/settings.png" width="40px"></a>
+			<img src="img/coins.png" width="40px"><b style="font-size:18px; position:relative; bottom:12px;">0</b>
+			<img src="img/tokens.png" width="40px"><b style="font-size:18px; position:relative; bottom:12px;">0</b>
 		</nav>
 		<a href="#" class="link"><div id="profile" style="display:block;">
 			<img src="img/ava_default.png" width="40px" id="avatar">
 			<label style="padding-top:auto; padding-bottom:auto;" id="username" class="link"><b>demo_account</b></label>
 		</div></a>	
 	</nav>
-</header><br/><br/><br/><br/><br/>
+</header><br/><br/><br/><br/><br/><br/>
 `
 
 document.write(header)
