@@ -6,7 +6,7 @@ var header = `
 </style>
 <header id="header">
 	<div id="logo">
-		<a href="index.html"><img src="img/icon.png" width="140px"></a>
+		<a href="index"><img src="img/icon.png" width="140px"></a>
 	</div>
 	<div id="search">
 		<input type="text" placeholder="Search" id="searchbar">
