@@ -1,3 +1,5 @@
+if (!window.location.href.endsWith('?old')) window.location.href = 'https://www.luctisity.com';
+
 var header = `
 <style>
 	header {
