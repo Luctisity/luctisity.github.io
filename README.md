@@ -1,4 +1,4 @@
-# Alpha
+# more info in the the page
 Luctisity Alpha on Github. Probably where I'm dropping all the code for the early release of the website.
 By the way, I've never used GH, so all sorts of things can happen.
 
